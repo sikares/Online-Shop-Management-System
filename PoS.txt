@@ -1,0 +1,4 @@
+Item name : Pepsi | Quality : 1 | Amount : 20.00 | Timestamp : Mon Dec 12 23:46:17 2022
+Item name : Pepsi | Quality : 2 | Amount : 40.00 | Timestamp : Mon Dec 12 23:49:19 2022
+Item name : Pepsi | Quality : 2 | Amount : 40.00 | Timestamp : Mon Dec 12 23:50:13 2022
+Item name : Honey | Quality : 6 | Amount : 390.00 | Timestamp : Mon Dec 12 23:50:13 2022

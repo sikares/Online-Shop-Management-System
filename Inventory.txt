@@ -1,0 +1,5 @@
+Item name : Pepsi | Quality : 10 | Cost : 15.00 | Price : 20.00 | Minimum item : 5
+Item name : Coke | Quality : 10 | Cost : 15.00 | Price : 20.00 | Minimum item : 5
+Item name : Water | Quality : 10 | Cost : 2.00 | Price : 7.00 | Minimum item : 5
+Item name : Cake | Quality : 10 | Cost : 100.00 | Price : 250.00 | Minimum item : 5
+Item name : Honey | Quality : 10 | Cost : 50.00 | Price : 65.00 | Minimum item : 5
